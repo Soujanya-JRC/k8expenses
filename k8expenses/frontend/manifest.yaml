@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: riyacham/frontend:1.0.0
+        image: riyacham/frontend:latest
         
 ---
 kind: Service
